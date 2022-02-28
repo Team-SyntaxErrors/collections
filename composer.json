@@ -1,0 +1,22 @@
+{
+    "name": "syntax-error/collections",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shawon325",
+            "email": "mynameisshawon325@gmail.com"
+        },
+        {
+            "name": "tanvir-r3d",
+            "email": "tanvirhossen112@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SyntaxError\\Collections\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
